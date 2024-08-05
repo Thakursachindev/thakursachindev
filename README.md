@@ -7,6 +7,7 @@ Hi ![176309783-0785949b-9127-417c-8b55-ab5a4333674e](https://github.com/user-att
 
 **CS Student and an aspiring Web Developer**
   🌍  I'm based in Jammu and Kashmir, India
+  <img align="right" alt="coding" width="330" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2YzdG40dHlmdGNnd2k1bm51bGtldzhuZDdldjZybmdvbjVncm5laiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
