@@ -8,7 +8,13 @@ Hi ![176309783-0785949b-9127-417c-8b55-ab5a4333674e](https://github.com/user-att
 **CS Student and an aspiring Web Developer**
   🌍  I'm based in Jammu and Kashmir, India
 
-  CONTACT me at ![images](https://github.com/user-attachments/assets/2605b7f3-8b58-4bb8-8037-3901137896f3)   ![download](https://github.com/user-attachments/assets/7bc14e84-e2d1-43d1-ae48-e69c593d481d)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/sachindev4463/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sachindev" height="30" width="40" /></a>
+<a href="https://www.instagram.com/th.sachin.thakur/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_jatin_koul_" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/sachinthakur5319" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kouljatin8" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/SACHIN_4463/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jatinkoul" height="30" width="40" /></a>
+</p>
 
    
 
